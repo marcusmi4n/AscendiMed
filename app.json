@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AscendiMed",
+    "slug": "ascendimed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2196F3",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2196F3"
+      }
+    },
+    "web": {}
+  }
+}
+
